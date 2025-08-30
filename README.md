@@ -5,9 +5,9 @@
 **Mentor(s):** [Jayapriya Pai](https://github.com/slashpai), [M Viswanath Sai](https://github.com/mviswanathsai)  
 **Proposal:** [Dhruv Puri - Prometheus Operator (GSoC 2025)](https://github.com/slashexx/gsoc-2025/blob/cf5080cffbe2e0ffa7046d4a6d2ab0edb0054129/PrometheusAgent-DaemonSet.pdf)
 
-## 📋 Pull Requests & Contributions
+## Contributions
 
-See **[PULL_REQUESTS.md](./PULL_REQUESTS.md)** for a detailed list of all my contributions to the Prometheus Operator project during GSoC 2025.
+See **[CONTRIBUTIONS.md](./CONTRIBUTIONS.md)** for a detailed list of all my contributions to the Prometheus Operator project during GSoC 2025.
 
 ## About the Project
 
