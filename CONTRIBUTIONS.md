@@ -1,8 +1,3 @@
-# 🌍 My Open Source Contributions
-
-Curated list of contributions to major open-source projects, mostly around CNCF, DevTools, and Infra.
-
-## 🧭 prometheus-operator / prometheus-operator
 
 | 🛠️ Pull Request | 🐛 Issue | 📄 Description |
 |----------------|----------|----------------|
