@@ -1,6 +1,6 @@
 # Contributions
 
-| Pull Request | Issue | Description |
+| Pull Request #| Issue #| Description #|
 |----------------|----------|----------------|
 | [#7858](https://github.com/prometheus-operator/prometheus-operator/pull/7858) | [#7857](https://github.com/prometheus-operator/prometheus-operator/issues/7857) | Removed the feature gate from PrometheusAgent DaemonSet mode. |
 | [#7805](https://github.com/prometheus-operator/prometheus-operator/pull/7805) | [#7742](https://github.com/prometheus-operator/prometheus-operator/issues/7742) | Added documentation on how to deploy PrometheusAgent in DaemonSet mode. |
